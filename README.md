@@ -1,2 +1,2 @@
 # Monki-monster-game
-a simple game pays tribute to Monki monster
+Simple game pays tribute to Monki monster using p5.js.
